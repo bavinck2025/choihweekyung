@@ -1,6 +1,6 @@
 휘경아
 
-이거 한번 봐바라
+<span style="color:red;">이거봐봐</span>
 
 진짜 신기하지 않니?
 
